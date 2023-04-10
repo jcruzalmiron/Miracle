@@ -1,2 +1,1 @@
-# Miracle
-Curso de Miracle Lab
+hola soy juan cruz, tengo 23 años, trabajo como ingeniero de datos en una consultora, me gustan los videojuegos, los libros, la musica y las peliculas. Mi lenguaje de programacion favorito es Python.
